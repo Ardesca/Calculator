@@ -1,2 +1,2 @@
 # Calculator
-nice js by Kalob 
+I learn whit kalob !
